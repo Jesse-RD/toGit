@@ -24,4 +24,4 @@ console.log(sum);
 //         console.log(num)
 //     }
 // }
-// console.log(sum);
+// console.log(sum); 
